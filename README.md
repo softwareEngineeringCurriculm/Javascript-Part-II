@@ -1,5 +1,5 @@
 # Javascript-Part-2
-# [Hack Reactor](http://www.hackreactor.com): JavaScript Part 2: Introduction to JavaScript Functions Workshop
+# [Hack Reactor](http://www.hackreactor.com): JavaScript Part II: Introduction to JavaScript Functions Workshop
 
 ## Overview
 
