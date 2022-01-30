@@ -24,7 +24,7 @@ Each section of practice exercises has a `Basic Requirements` portion. Some sect
 
 _For your ease of access – click the following links for each section's practice exercises._
 
-- Part I: [Functions](./tree/main/Exercises%20-%20Functions)
+- Part I: [Functions](./Exercises%20-%20Functions/README.md)
 
 ## Thinking about JavaScript
 
