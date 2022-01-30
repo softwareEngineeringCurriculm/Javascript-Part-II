@@ -24,9 +24,7 @@ Each section of practice exercises has a `Basic Requirements` portion. Some sect
 
 _For your ease of access – click the following links for each section's practice exercises._
 
-- Part I: History, Usage and Development (no exercises)
-- Part II: [Foundations of Programming](./2-foundations-of-programming)
-- Part III: [Functions](./3-functions)
+- Part I: [Functions](./3-functions)
 
 ## Thinking about JavaScript
 
