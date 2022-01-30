@@ -1,4 +1,4 @@
-# Javascript-Part-2
+# Javascript-Part-II
 # [Hack Reactor](http://www.hackreactor.com): JavaScript Part II: Introduction to JavaScript Functions Workshop
 
 ## Overview
