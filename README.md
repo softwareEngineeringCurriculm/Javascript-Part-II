@@ -5,7 +5,7 @@
 
 #### Scheduled Length: 1.5 Hours
 
-Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript Part 2 workshop. JavaScript Part 2 is the first second in our free, seven-part Introductory JavaScript Series. We're excited to have you.
+Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript Part 2 workshop. JavaScript Part 2 is the second part in our free, seven-part Introductory JavaScript Series. We're excited to have you.
 
 In order to complete these exercises, open [repl.it](https://repl.it/), choose JavaScript, and then write your code in the left-hand panel. You can run your code using the "Run" button.
 
